@@ -1,3 +1,5 @@
+※準備中
+
 - [Twitter](https://twitter.com/spiktikn)
 - [YouTube](https://www.youtube.com/channel/UCBTgKMkQ20hh_9p8IepY05g)
 - [Docker Hub](https://hub.docker.com/u/spiktikn)
