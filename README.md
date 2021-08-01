@@ -3,7 +3,6 @@
 - [Twitter](https://twitter.com/spiktikn)
 - [YouTube](https://www.youtube.com/channel/UCBTgKMkQ20hh_9p8IepY05g)
 - [Docker Hub](https://hub.docker.com/u/spiktikn)
-- [Qiita](https://qiita.com/spiktikn)
 
 大量のPCを動かしたいです。並列処理でもクラスタでも
 
