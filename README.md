@@ -20,3 +20,6 @@ Software Engineer / とある港区のソフトウェアエンジニア 20代後
 
 ## スキル
 [SKILL.md](SKILL.md)に記載しています。
+
+## 勉強になった本
+[BOOKLOG.md](BOOKLOG.md)に記載しています。
