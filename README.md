@@ -1,17 +1,30 @@
-※準備中
+大量のPCを動かしたいです。並列処理でもクラスタでも
+
+# ソーシャルアカウント
 
 - [Twitter](https://twitter.com/spiktikn)
 - [YouTube](https://www.youtube.com/channel/UCBTgKMkQ20hh_9p8IepY05g)
 - [Docker Hub](https://hub.docker.com/u/spiktikn)
 
-大量のPCを動かしたいです。並列処理でもクラスタでも
+# 資格
+- 応用情報処理技術者
+- 基本情報処理技術者
 
-応用情報処理技術者 / My favorites: Docker, Todoist, Keep / gcp, aws, github, k8s, elastic stack, vscode, linux, redmine, backlog
-
+# 技術系
+- Google Cloud Platform (GCP)
 - Docker
 - Kubernetes
-- Podman
 - Elasticsearch
-- Debian
-- Ubuntu
-- CentOS
+- Elastic Stack
+- Database
+- GitHub
+- Visual Studio Code
+- Emacs
+- Vim
+- Aamazon Web Services (AWS)
+
+# マネジメント系
+- Todoist
+- Google Keep
+- Redmine
+- Backlog
