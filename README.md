@@ -26,3 +26,6 @@ Software Engineer / とある港区のソフトウェアエンジニア 20代後
 
 ## 勉強になった本
 [BOOKLOG.md](BOOKLOG.md)に記載しています。
+
+## 研究
+[RESEARCH.md](RESEARCH.md)に記載しています。
