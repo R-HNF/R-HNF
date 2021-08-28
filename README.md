@@ -15,8 +15,8 @@ Software Engineer / とある港区のソフトウェアエンジニア 20代後
 - [MuchiNochi.work](https://muchinochi.work/)
 
 ## 資格
-- 応用情報処理技術者
-- 基本情報処理技術者
+- 応用情報処理技術者（2021年6月）
+- 基本情報処理技術者（2014年5月）
 
 ## スキル
 [SKILL.md](SKILL.md)に記載しています。
