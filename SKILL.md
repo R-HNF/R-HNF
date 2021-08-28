@@ -52,6 +52,7 @@
 
 ## マネジメント系
 - 開発〜検収までの顧客とのやりとり
+- 開発部課題管理
 - Todoist
 - Google Keep
 - Redmine
