@@ -56,3 +56,8 @@
 - Google Keep
 - Redmine
 - Backlog
+
+## 英語
+- TOEIC 775点（2016年1月）
+    - LISTENING 445点
+    - READING 330点
