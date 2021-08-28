@@ -14,4 +14,4 @@ Software Engineer / とある港区のソフトウェアエンジニア 20代後
 - 応用情報処理技術者
 - 基本情報処理技術者
 
-## [スキル](SKILL.md)
+<span style="font-size: 120%;">スキルについては[SKILL.md](SKILL.md)に記載しています。</span>
