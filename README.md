@@ -1,26 +1,28 @@
+# spiktikn
+
 大量のPCを動かしたいです。並列処理でもクラスタでも
 
-# ソーシャルアカウント
+## ソーシャルアカウント
 
 - [Twitter](https://twitter.com/spiktikn)
 - [YouTube](https://www.youtube.com/channel/UCBTgKMkQ20hh_9p8IepY05g)
 - [Docker Hub](https://hub.docker.com/u/spiktikn)
 
-# 資格
+## 資格
 - 応用情報処理技術者
 - 基本情報処理技術者
 
-# 技術系
+## 技術系
 
-## インフラ
+### インフラ
 - Docker
 - Kubernetes
 - Elasticsearch
 - Elastic Stack
 
-## クラウド
+### クラウド
 
-### Google Cloud Platform (GCP)
+#### Google Cloud Platform (GCP)
 - Kubernetes Engine
 - Compute Engine
 - BigQuery
@@ -34,33 +36,33 @@
 - Cloud Build
 - Cloud Registry
 
-### Amazon Web Services (AWS)
+#### Amazon Web Services (AWS)
 - 本でちょっと勉強したことがあります。
 
-## DB
+### DB
 - MySQL
 - MongoDB
 - MariaDB InnoDB
 - MariaDB ColumnStore
 - PostgreSQL
 
-## 言語
+### 言語
 - JavaScript
 - Python
 - PHP
 
-## フレームワーク
+### フレームワーク
 - Node.js
 - CakePHP
 - Laravel
 
-## 開発ツール
+### 開発ツール
 - GitHub
 - Visual Studio Code
 - Emacs
 - Vim
 
-# マネジメント系
+## マネジメント系
 - Todoist
 - Google Keep
 - Redmine
