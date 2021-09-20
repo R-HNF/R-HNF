@@ -24,6 +24,9 @@ Software Engineer / とある港区のソフトウェアエンジニア 20代後
 ## スキル
 [SKILL.md](SKILL.md)に記載しています。
 
+## 会社でやったこと
+[CAREER.md](CAREER.md)に記載しています（書ける範囲で）。
+
 ## 勉強になった本
 [BOOKLOG.md](BOOKLOG.md)に記載しています。
 
