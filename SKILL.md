@@ -18,6 +18,7 @@
 - IAM
 - Cloud Billing
 - Cloud Operation Suite
+- Cloud Monitoring
 - Cloud SQL
 - VPC Networks
 - Secret Manager
@@ -26,6 +27,7 @@
 
 #### Amazon Web Services (AWS)
 - 本でちょっと勉強したことがあります。
+
 
 ### DB
 - MySQL
@@ -50,6 +52,11 @@
 - Emacs
 - Vim
 
+### 運用ツール
+- Slack
+
+
+
 ## マネジメント系
 - 開発〜検収までの顧客とのやりとり
 - 開発部課題管理
@@ -59,7 +66,11 @@
 - Redmine
 - Backlog
 
+
+
+
 ## 英語
+- 取引先開発者と英語でのコミュニケーション（メール）
 - TOEIC 775点（2016年1月）
     - LISTENING 445点
     - READING 330点
