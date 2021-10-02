@@ -21,6 +21,7 @@
 - Cloud Monitoring
 - Cloud SQL
 - VPC Networks
+- Cloud DNS
 - Secret Manager
 - Cloud Build
 - Cloud Registry
@@ -52,7 +53,7 @@
 - Emacs
 - Vim
 
-### 運用ツール
+### 監視・運用ツール
 - Slack
 
 
