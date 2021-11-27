@@ -1,6 +1,7 @@
 # 勉強になった本
 
 ## 技術
+- これでできる！ はじめてのOSSフィードバックガイド（コミット[f3afc4b](https://github.com/oss-gate/first-feedback-guidebook/commit/f3afc4b10b72146129299b034b3ceb8142cfbf26)時点のもの）
 - Docker (O'Reilly)
 - Docker Deep Dive: Zero to Docker in a single book
 - Kubernetes完全ガイド 第2版 impress top gearシリーズ
@@ -21,6 +22,7 @@
 ## マネジメント
 - ヤフーの1on1―――部下を成長させるコミュニケーションの技法
 - Engineers in VOYAGE ― 事業をエンジニアリングする技術者たち
+
 ## マーケティング
 - アドテクノロジーの教科書 デジタルマーケティング実践指南
 - 沈黙のWebライティング —Webマーケッター ボーンの激闘—
