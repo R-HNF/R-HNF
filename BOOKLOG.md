@@ -1,6 +1,7 @@
 # 勉強になった本
 
 ## 技術
+- ネットワークがよくわかる教科書
 - これでできる！ はじめてのOSSフィードバックガイド（コミット[f3afc4b](https://github.com/oss-gate/first-feedback-guidebook/commit/f3afc4b10b72146129299b034b3ceb8142cfbf26)時点のもの）
 - Docker (O'Reilly)
 - Docker Deep Dive: Zero to Docker in a single book
@@ -24,6 +25,7 @@
 - Engineers in VOYAGE ― 事業をエンジニアリングする技術者たち
 
 ## マーケティング
+- 起業の科学 スタートアップサイエンス
 - アドテクノロジーの教科書 デジタルマーケティング実践指南
 - 沈黙のWebライティング —Webマーケッター ボーンの激闘—
 
@@ -45,7 +47,6 @@
 - 日本人の英語
 
 ## 哲学
-
 - 新装版 ソフィーの世界 (上) 哲学者からの不思議な手紙
 - 新装版 ソフィーの世界 (下) 哲学者からの不思議な手紙
 - ソクラテスの弁明
