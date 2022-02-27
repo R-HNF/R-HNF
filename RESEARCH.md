@@ -5,7 +5,7 @@
 - 「無線センサネットワークにおける多元センサデータを用いた端末位置推定」（修士論文）
 
 ## ベイズ，カーネル関数，回帰
-- "Bayesian kernel regression for noisy inputs based on Naradaya-Watson estimator constructed from noiseless training data."
+- ["Bayesian kernel regression for noisy inputs based on Naradaya-Watson estimator constructed from noiseless training data."](https://www.worldscientific.com/doi/10.1142/S2424922X20500047)
 - "Regression method for noisy inputs based on non-parametric estimator constructed from noiseless training data."
 - "Regression method for noisy inputs based on Naradaya-Watson estimator constructed from noiseless training data"
 - 「カーネル回帰関数の確率変数化によるノイズを含む入力に対する回帰手法」
