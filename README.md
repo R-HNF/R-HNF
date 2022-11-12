@@ -1,18 +1,11 @@
 # spiktikn
 
-Software Engineer / とあるソフトウェアエンジニア 20代後半 働きやすく生きやすい環境を探求中
-
-インフラ、クラウド寄りの何でもやってみたいお年頃
+Software Engineer / とあるソフトウェアエンジニア 20代後半
 
 ## ソーシャルアカウント
 
 - [Twitter](https://twitter.com/spiktikn)
-- [YouTube](https://www.youtube.com/channel/UCBTgKMkQ20hh_9p8IepY05g)
 - [Docker Hub](https://hub.docker.com/u/spiktikn)
-
-## ブログ
-（まだ何も書いてないけど...）
-- [MuchiNochi.work](https://muchinochi.work/)
 
 ## 資格
 - 応用情報処理技術者（2021年6月）
