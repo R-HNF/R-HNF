@@ -72,6 +72,9 @@
 - Google Keep
 - Redmine
 - Backlog
+- Miro
+- Confuluence
+- GitHub Projects
 
 
 
