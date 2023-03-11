@@ -1,11 +1,6 @@
-# spiktikn
+# R-HNF
 
 Software Engineer / とあるソフトウェアエンジニア 20代後半
-
-## ソーシャルアカウント
-
-- [Twitter](https://twitter.com/spiktikn)
-- [Docker Hub](https://hub.docker.com/u/spiktikn)
 
 ## 資格
 - 応用情報処理技術者（2021年6月）
