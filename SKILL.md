@@ -27,7 +27,10 @@
 - Cloud Registry
 
 #### Amazon Web Services (AWS)
-- 本でちょっと勉強したことがあります。
+- EKS
+- Cloud Formation
+- IAM
+- Secret Manager
 
 
 ### DB
@@ -55,8 +58,10 @@
 
 ### 監視・運用ツール
 - Slack
+- Datadog
 
-
+### CI/CD
+- GitHub Actions
 
 ## マネジメント系
 - 社内アンケートによる情報収集
