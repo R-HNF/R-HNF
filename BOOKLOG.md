@@ -1,6 +1,7 @@
 # 勉強になった本
 
 ## 技術
+- Elastic Stack実践ガイド[Elasticsearch/Kibana編] impress top gearシリーズ
 - SCRUM BOOT CAMP THE BOOK【増補改訂版】 スクラムチームではじめるアジャイル開発
 - Vue.js&Nuxt.js超入門
 - Vue.js 3 超入門
