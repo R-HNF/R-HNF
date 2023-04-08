@@ -11,7 +11,7 @@
 - DNSがよく分かる教科書
 - マスタリングTCP/IP　入門編（第5版）
 - ネットワークがよくわかる教科書
-- Chrome Developer Tools 入門 
+- Chrome Developer Tools 入門
 - これでできる！ はじめてのOSSフィードバックガイド（コミット[f3afc4b](https://github.com/oss-gate/first-feedback-guidebook/commit/f3afc4b10b72146129299b034b3ceb8142cfbf26)時点のもの）
 - Docker (O'Reilly)
 - Docker Deep Dive: Zero to Docker in a single book
