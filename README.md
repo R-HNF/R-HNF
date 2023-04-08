@@ -1,6 +1,6 @@
 # R-HNF
 
-Software Engineer / とあるソフトウェアエンジニア 20代後半
+Site Reliability Engineer & Software Engineer / とあるSRE&ソフトウェアエンジニア 20代後半
 
 ## 資格
 - 応用情報処理技術者（2021年6月）
