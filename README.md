@@ -9,18 +9,16 @@ Site Reliability Engineer & Software Engineer / とあるSRE&ソフトウェア�
 ## 学位
 * 修士（工学）
 
----
+## 何ができるか、何をやってきたか
 
-何ができるか、何をやってきたか
-
-## スキル
+### スキル
 [SKILL.md](SKILL.md)に記載しています。
 
-## 会社でやったこと
+### 会社でやったこと
 [CAREER.md](CAREER.md)に記載しています（書ける範囲で）。
 
-## 勉強になった本
+### 勉強になった本
 [BOOKLOG.md](BOOKLOG.md)に記載しています。
 
-## 研究
+### 研究
 [RESEARCH.md](RESEARCH.md)に記載しています。
