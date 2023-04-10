@@ -5,7 +5,17 @@
   * セキュリティ
   * コンプライアンス
   * セキュアプログラミング
+  * 知財
+  * 目標設定
 * スクラム（アジャイル開発）
+* API Gatewayルーティング追加
+* 暖気処理 on Kubernetes
+* Akamai DNS証明書更新
+* 週末のトラフィック増加に備えたマイクロサービス、Elasticsearchの増強
+* CI/CD Conference 2023参加
+* GitHub ActionsによるIssue自動作成
+* Amazon EKSノードアップグレード
+* ログ収集podにnodeAffiity追加
 
 # 1社目（2019/04～2023/02）
 
