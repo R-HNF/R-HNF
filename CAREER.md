@@ -16,6 +16,9 @@
 * GitHub ActionsによるIssue自動作成
 * Amazon EKSノードアップグレード
 * ログ収集podにnodeAffiity追加
+* Elasticsearchのアラート原因調査
+* m7インタスンスタイプ、bottlerocket AMI提案
+* GCPサポート
 
 # 1社目（2019/04～2023/02）
 
