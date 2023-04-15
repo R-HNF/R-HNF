@@ -6,7 +6,12 @@
 * Docker
 * Kubernetes
 * Elasticsearch
+  * Componet Template
+  * ILM policy
+  * Data Stream
 * Elastic Stack
+  * Kibana
+  * Logstash
 
 ### クラウド
 
