@@ -1,6 +1,8 @@
 # 勉強になった本
 
 ## 技術
+* 「技術書」の読書術 達人が教える選び方・読み方・情報発信&共有のコツとテクニック
+* 入門 監視 (O'Reilly)
 * Elastic Stack実践ガイド[Elasticsearch/Kibana編] impress top gearシリーズ
 * SCRUM BOOT CAMP THE BOOK【増補改訂版】 スクラムチームではじめるアジャイル開発
 * Vue.js&Nuxt.js超入門
