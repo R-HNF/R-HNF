@@ -1,24 +1,30 @@
 # 2社目（2023/03～）
 
 ## 社内活動
-* 入社時研修
-  * セキュリティ
-  * コンプライアンス
-  * セキュアプログラミング
-  * 知財
-  * 目標設定
-* スクラム（アジャイル開発）
-* API Gatewayルーティング追加
-* 暖気処理 on Kubernetes
-* Akamai DNS証明書更新
-* 週末のトラフィック増加に備えたマイクロサービス、Elasticsearchの増強
-* CI/CD Conference 2023参加
-* GitHub ActionsによるIssue自動作成
-* Amazon EKSノードアップグレード
-* ログ収集podにnodeAffiity追加
-* Elasticsearchのアラート原因調査
-* m7インタスンスタイプ、bottlerocket AMI提案
-* GCPサポート
+* 2023/03
+ * 入社時研修
+   * セキュリティ
+   * コンプライアンス
+   * セキュアプログラミング
+   * 知財
+   * 目標設定
+ * スクラム（アジャイル開発）
+ * API Gatewayルーティング追加
+ * 暖気処理 on Kubernetes
+ * Akamai DNS証明書更新
+ * 週末のトラフィック増加に備えたマイクロサービス、Elasticsearchの増強
+ * CI/CD Conference 2023参加
+ * GitHub ActionsによるIssue自動作成
+* 2023/04
+ * Amazon EKSノードアップグレード
+ * ログ収集podにnodeAffiity追加
+ * Elasticsearchの不明だったアラート原因解明
+ * m7インタスンスタイプ、bottlerocket AMI提案
+ * GCPサポート
+ * インスタンスタイプ変更によるコストカットの提案
+ * k8sへのissue作成
+ * 部会の司会
+ * ElasticsearchのILM policyトラブル調査
 
 # 1社目（2019/04～2023/02）
 
