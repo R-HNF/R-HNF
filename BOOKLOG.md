@@ -1,6 +1,7 @@
 # 勉強になった本
 
 ## 技術
+* 実践入門 Kubernetesカスタムコントローラーへの道
 * SRE サイトリライアビリティエンジニアリング ― Googleの信頼性を支えるエンジニアリングチーム
 * 入門 監視 (O'Reilly)
 * Elastic Stack実践ガイド[Elasticsearch/Kibana編] impress top gearシリーズ
