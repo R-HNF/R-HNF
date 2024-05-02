@@ -14,11 +14,11 @@ Site Reliability Engineer & Software Engineer / とあるSRE&ソフトウェア�
 ### スキル
 [SKILL.md](SKILL.md)に記載しています。
 
-### 会社でやったこと
+### キャリア
 [CAREER.md](CAREER.md)に記載しています（書ける範囲で）。
 
-### 勉強になった本
-[BOOKLOG.md](BOOKLOG.md)に記載しています。
+### 発表
+[RESEARCH.md](RESEARCH.md)に記載しています。
 
 ### 研究
 [RESEARCH.md](RESEARCH.md)に記載しています。
