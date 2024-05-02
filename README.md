@@ -22,3 +22,6 @@ Site Reliability Engineer & Software Engineer / とあるSRE&ソフトウェア�
 
 ### 研究
 [RESEARCH.md](RESEARCH.md)に記載しています。
+
+###  読了した書籍
+[BOOKLOG.md](BOOKLOG.md)に記載しています。
