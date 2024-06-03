@@ -18,7 +18,7 @@ Site Reliability Engineer & Software Engineer / とあるSRE&ソフトウェア�
 [CAREER.md](CAREER.md)に記載しています（書ける範囲で）。
 
 ### 発表
-[RESEARCH.md](RESEARCH.md)に記載しています。
+[PUBLICATION.md](PUBLICATION.md)に記載しています。
 
 ### 研究
 [RESEARCH.md](RESEARCH.md)に記載しています。
