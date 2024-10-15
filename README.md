@@ -1,5 +1,7 @@
 # R-HNF
 
+[![An image of @rhnf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rhnf)](https://holopin.io/@rhnf)
+
 Site Reliability Engineer & Software Engineer / とあるSRE&ソフトウェアエンジニア 20代後半
 
 ## 資格
