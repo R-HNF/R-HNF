@@ -33,5 +33,5 @@ These certifications are part of the Information Technology Engineers Examinatio
 ### 読了した書籍
 [BOOKLOG.md](BOOKLOG.md)に記載しています。
 
-### Visitor Count
+## Visitor Count
 <img src="https://count.getloli.com/get/@:R-HNF?theme=rule34" alt=":R-HNF" />
