@@ -17,20 +17,20 @@ These certifications are part of the **Information Technology Engineers Examinat
 
 ## Achievements & Background
 
-### スキル
-[SKILL.md](SKILL.md)に記載しています。
+### Skills
+Details are listed in [SKILL.md](SKILL.md).
 
-### キャリア
-[CAREER.md](CAREER.md)に記載しています（書ける範囲で）。
+### Career
+Information is available in [CAREER.md](CAREER.md) (as far as I can disclose).
 
-### 発表
-[PUBLICATION.md](PUBLICATION.md)に記載しています。
+### Publications
+Listed in [PUBLICATION.md](PUBLICATION.md).
 
-### 研究
-[RESEARCH.md](RESEARCH.md)に記載しています。
+### Research
+Listed in [RESEARCH.md](RESEARCH.md).
 
-### 読了した書籍
-[BOOKLOG.md](BOOKLOG.md)に記載しています。
+### Books I've Read
+See [BOOKLOG.md](BOOKLOG.md) for a list of completed readings.
 
 ## Visitor Count
 <img src="https://count.getloli.com/get/@:R-HNF?theme=rule34" alt=":R-HNF" />
