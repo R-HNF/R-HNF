@@ -32,5 +32,8 @@ Listed in [RESEARCH.md](RESEARCH.md).
 ### 📚 Books I've Read
 See [BOOKLOG.md](BOOKLOG.md) for a list of completed readings.
 
+### 🏙️ Places I have connections to
+Listed in [PLACE.md](PLACE.md).
+
 ## Visitor Count
 <img src="https://count.getloli.com/get/@:R-HNF?theme=rule34" alt=":R-HNF" />
