@@ -2,7 +2,7 @@
 
 # R-HNF
 
-Site Reliability Engineer & Software Engineer living in Japan
+**Site Reliability Engineer & Software Engineer** living in Japan
 
 ## Certifications
 * Applied Information Technology Engineer (acquired in June 2021)
