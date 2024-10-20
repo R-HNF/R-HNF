@@ -35,5 +35,8 @@ See [BOOKLOG.md](BOOKLOG.md) for a list of completed readings.
 ### 🏙️ Places I have connections to
 Listed in [PLACE.md](PLACE.md).
 
+### 🥳 Anime
+[ANIME](ANIME.md): These are my favorite anime. I haven't listed the recent ones because there are too many ;)
+
 ## Visitor Count
 <img src="https://count.getloli.com/get/@:R-HNF?theme=rule34" alt=":R-HNF" />
