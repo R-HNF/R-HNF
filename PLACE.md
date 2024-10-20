@@ -1,6 +1,7 @@
 # Places I have connections to
 
 * 千葉県（東京近く）
+* 東京ディズニーリゾート（Tokyo Disney Resort）
 * 港区
 * 虎ノ門
 * 六本木
