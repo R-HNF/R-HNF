@@ -1,17 +1,22 @@
-# R-HNF
-
 [![An image of @rhnf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rhnf)](https://holopin.io/@rhnf)
 
-Site Reliability Engineer & Software Engineer / とあるSRE&ソフトウェアエンジニア 20代後半
+# R-HNF
 
-## 資格
-* 応用情報処理技術者（2021年6月）
-* 基本情報処理技術者（2014年5月）
+Site Reliability Engineer & Software Engineer
 
-## 学位
-* 修士（工学）
+## Certifications
+* Applied Information Technology Engineer (acquired in June 2021)
+* Fundamental Information Technology Engineer (acquired in May 2014)
 
-## 何ができるか、何をやってきたか
+Additional Information for International Readers:
+
+These certifications are part of the Information Technology Engineers Examination (ITEE) system in Japan, administered by the Information-technology Promotion Agency (IPA). The ITEE is a nationally recognized qualification that assesses the skills and knowledge of IT professionals.
+
+## Degree
+* Master of Engineering (obtained in 2019)
+* Bachelor of Engineering (obtained in 2017)
+
+## Achievements & Background
 
 ### スキル
 [SKILL.md](SKILL.md)に記載しています。
@@ -25,7 +30,7 @@ Site Reliability Engineer & Software Engineer / とあるSRE&ソフトウェア�
 ### 研究
 [RESEARCH.md](RESEARCH.md)に記載しています。
 
-###  読了した書籍
+### 読了した書籍
 [BOOKLOG.md](BOOKLOG.md)に記載しています。
 
 ### カウンター
