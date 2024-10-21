@@ -5,15 +5,15 @@
 **Site Reliability Engineer & Software Engineer** living in Japan
 
 ## 🧑‍💻 Certifications
-* Applied Information Technology Engineer (acquired in June 2021)
-* Fundamental Information Technology Engineer (acquired in May 2014)
+* Applied Information Technology Engineer (Acquired in June 2021)
+* Fundamental Information Technology Engineer (Acquired in May 2014)
 
 *Additional Information for International Readers:*
 These certifications are part of the **Information Technology Engineers Examination (ITEE)** system in Japan, administered by the **Information-technology Promotion Agency (IPA)**. The ITEE is a nationally recognized qualification that assesses the skills and knowledge of IT professionals.
 
 ## 🎓 Degree
-* Master of Engineering (obtained in 2019)
-* Bachelor of Engineering (obtained in 2017)
+* Master of Engineering (Obtained in 2019)
+* Bachelor of Engineering (Obtained in 2017)
 
 ## Achievements & Background
 
