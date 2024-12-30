@@ -1,8 +1,8 @@
-# スキル
+# Skill
 
-## 技術系
+## Technology
 
-### インフラ
+### Infrastructure
 * Docker
 * Kubernetes
 * Elasticsearch
@@ -13,7 +13,7 @@
   * Kibana
   * Logstash
 
-### クラウド
+### Cloud Native
 
 #### Google Cloud Platform (GCP)
 * Kubernetes Engine
@@ -45,34 +45,34 @@
 * MariaDB ColumnStore
 * PostgreSQL
 
-### 言語
+### Programming
 * JavaScript
 * Python
 * PHP
 
-### フレームワーク
+### Framework
 * Node.js
 * CakePHP
 * Laravel
 
-### 開発ツール
+### Development Tool
 * GitHub
 * Visual Studio Code
 * Emacs
 * Vim
 
-### 監視・運用ツール
+### Observability / Operation Tool
 * Slack
 * Datadog
 
 ### CI/CD
 * GitHub Actions
 
-## マネジメント系
-* 社内アンケートによる情報収集
-* 開発〜検収までの顧客とのやりとり
-* 開発部課題管理
-* 組織作り
+## Management
+* Information gathering through internal surveys
+* Communication with customers from development to acceptance
+* Management of development department issues
+* Organizational development
 * Todoist
 * Google Keep
 * Redmine
@@ -84,8 +84,8 @@
 
 
 
-## 英語
-* 取引先開発者と英語でのコミュニケーション（メール）
-* TOEIC 775点（2016年1月）
+## English
+* Communication in English with partner developers (via email)
+* TOEIC score of 775 (January 2016)
     * LISTENING 445点
     * READING 330点
