@@ -4,6 +4,8 @@
 
 **Site Reliability Engineer & Software Engineer** living in Japan
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/R-HNF/)
+
 ## 🧑‍💻 Certifications
 * Applied Information Technology Engineer (acquired in June 2021)
 * Fundamental Information Technology Engineer (acquired in May 2014)
