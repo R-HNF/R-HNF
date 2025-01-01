@@ -105,3 +105,15 @@
 * 会社のMVV原案作成 (2022年11月)
 * 粗利率アップについて、リーダー以上の社員でグループワーク (2022年11月)
 * CTO, GL, 他TLと部署の年度計画作成 (2022年12月)
+
+# Activities in High School
+* [Mathematical Sciences Club](http://kgmsc.jp/)
+  * Canada Wide Virtual Science Fair (All links are returning 404 Not Found...😇)
+    * http://www.virtualsciencefair.org/2012/nakams
+    * http://www.virtualsciencefair.org/2013/kita13t
+    * http://www.virtualsciencefair.org/2014/inou14m
+  * [Chocolate Games - How High School Students Discovered New Formulas Using Mathematica](http://www.mathematica-journal.com/2013/12/chocolate-games/)
+    * http://chocolategame.jp/index.html
+  * [New Chocolate Game: Variants of the Game of Nim](https://www.researchgate.net/publication/269162690_New_Chocolate_Game_Variants_of_the_Game_of_Nim)
+  * [Chocolate games that satisfy the inequality for and Grundy numbers](https://www.mi.sanu.ac.rs/vismath/miyadera2013/index.html)
+
