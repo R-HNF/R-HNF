@@ -106,6 +106,10 @@
 * 粗利率アップについて、リーダー以上の社員でグループワーク (2022年11月)
 * CTO, GL, 他TLと部署の年度計画作成 (2022年12月)
 
+# Activities in University
+* NECデータサイエンス研究所でリサーチャーとして2ヶ月間インターン
+* ACM-ICPC（プログラミングコンテスト）アジア大会決勝出場
+
 # Activities in High School
 * [Mathematical Sciences Club](http://kgmsc.jp/)
   * Canada Wide Virtual Science Fair (All links are returning 404 Not Found...😇)
