@@ -87,5 +87,5 @@
 ## English
 * Communication in English with partner developers (via email)
 * TOEIC score of 775 (January 2016)
-    * LISTENING 445点
-    * READING 330点
+    * LISTENING 445
+    * READING 330
