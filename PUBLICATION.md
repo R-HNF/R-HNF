@@ -1,7 +1,14 @@
 
 # Blog post
+
+## ZOZO TECH BLOG
 * [2024/03/27公開 Elastic Cloudの特権アカウント共用から脱却！ - ZOZO TECH BLOG](https://techblog.zozo.com/entry/elastic-cloud-breaking-away-from-shared-privileged-accounts)
 * [2023/09/27公開 SREによるElasticsearchのQCD改善！シャーディング最適化とオートスケーラー開発の取り組み - ZOZO TECH BLOG](https://techblog.zozo.com/entry/qcd-improvement-for-elasticsearch-by-sre)
+
+## Qiita
+* [2024/12/16公開 【VSCode】Project ManagerによりDev Container開発環境を素早く起動する #Docker - Qiita](https://qiita.com/R-HNF/items/d8bacad5d75c96db5e89)
+
+## keywalker
 * [2021/06/07公開 GKEの名前空間ごとの課金額算出 | keywalker](https://www.keywalker.co.jp/blog/gke-namespace-billing-calculation.html)
 
 # Patent
