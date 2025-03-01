@@ -1,3 +1,9 @@
+# Engineering Talk
+
+## Meetup
+* [Elasticsearch Community in Tokyo 2025, Wed, Feb 26, 2025, 6:15 PM | Meetup](https://www.meetup.com/tokyo-elastic-fantastics/events/305751163/?eventOrigin=group_past_events)
+  * Slide: [Elastic Cloudの特権アカウント共用から脱却！ / Elastic Cloud: Breaking Away from Sharing Privileged Account - Speaker Deck](https://speakerdeck.com/r_hnf/elastic-cloud-breaking-away-from-sharing-privileged-account)
+
 
 # Blog post
 
