@@ -1,4 +1,4 @@
-# The second company（2023/03～）
+# ZOZO, inc.: The second company （2023/03～）
 
 ## In-house activity
 * 2023/03
@@ -26,7 +26,7 @@
  * 部会の司会
  * ElasticsearchのILM policyトラブル調査
 
-# The first company（2019/04～2023/02）
+# keywalker, inc.: The first company （2019/04～2023/02）
 
 ## Product / Project
 * 専用クローラの開発（2019年6月〜）
