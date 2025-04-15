@@ -1,6 +1,7 @@
 # My Learning Library: Curated Lists of Insightful Books
 
 ## Technology
+* Clean Architecture 達人に学ぶソフトウェアの構造と設計
 * 実用 Go言語 (O'Reilly)
 * 初めてのGo言語 (O'Reilly)
 * 改訂2版 みんなのGo言語
