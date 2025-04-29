@@ -5,6 +5,7 @@
 **Site Reliability Engineer & Software Engineer** living in Japan
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/fussa_rwxrwxrwx)
+
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/R-HNF/)
 
 ## 🧑‍💻 Certifications
