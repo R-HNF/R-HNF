@@ -1,6 +1,7 @@
 # My Learning Library: Curated Lists of Insightful Books
 
 ## Technology
+* ドメイン駆動設計をはじめよう ―ソフトウェアの実装と事業戦略を結びつける実践技法 (O'Reilly)
 * ドメイン駆動設計入門 ボトムアップでわかる！ ドメイン駆動設計の基本
 * Clean Architecture 達人に学ぶソフトウェアの構造と設計
 * 実用 Go言語 (O'Reilly)
