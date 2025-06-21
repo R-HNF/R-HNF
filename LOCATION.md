@@ -1,4 +1,4 @@
-# Places I have connections to
+# Associated Locations
 
 * 千葉県（東京近く）
 * 東京ディズニーリゾート（Tokyo Disney Resort）

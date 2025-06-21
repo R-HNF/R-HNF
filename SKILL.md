@@ -1,4 +1,4 @@
-# Skill
+# Skills
 
 ## Technology
 
@@ -6,7 +6,7 @@
 * Docker
 * Kubernetes
 * Elasticsearch
-  * Componet Template
+  * Component Template
   * ILM policy
   * Data Stream
 * Elastic Stack
@@ -33,16 +33,14 @@
 
 #### Amazon Web Services (AWS)
 * EKS
-* Cloud Formation
+* CloudFormation
 * IAM
 * Secret Manager
-
 
 ### DB
 * MySQL
 * MongoDB
-* MariaDB InnoDB
-* MariaDB ColumnStore
+* MariaDB (InnoDB, ColumnStore)
 * PostgreSQL
 
 ### Programming
@@ -68,7 +66,7 @@
 ### CI/CD
 * GitHub Actions
 
-## Management
+## Team Leadership
 * Information gathering through internal surveys
 * Communication with customers from development to acceptance
 * Management of development department issues
@@ -78,14 +76,10 @@
 * Redmine
 * Backlog
 * Miro
-* Confuluence
+* Confluence
 * GitHub Projects
 * MetaLife
 
-
-
 ## English
 * Communication in English with partner developers (via email)
-* TOEIC score of 775 (January 2016)
-    * LISTENING 445
-    * READING 330
+* TOEIC Score: 775 (L: 445, R: 330) - January 2016

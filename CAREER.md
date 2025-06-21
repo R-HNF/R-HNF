@@ -1,4 +1,4 @@
-# ZOZO, inc.: The second company （2023/03～）
+# ZOZO, Inc. (March 2023 – Present)
 
 ## In-house activity
 * 2023/03
@@ -26,7 +26,7 @@
  * 部会の司会
  * ElasticsearchのILM policyトラブル調査
 
-# keywalker, inc.: The first company （2019/04～2023/02）
+# keywalker, Inc. (April 2019 – February 2023)
 
 ## Product / Project
 * 専用クローラの開発（2019年6月〜）
@@ -120,4 +120,3 @@
     * http://chocolategame.jp/index.html
   * [New Chocolate Game: Variants of the Game of Nim](https://www.researchgate.net/publication/269162690_New_Chocolate_Game_Variants_of_the_Game_of_Nim)
   * [Chocolate games that satisfy the inequality for and Grundy numbers](https://www.mi.sanu.ac.rs/vismath/miyadera2013/index.html)
-
