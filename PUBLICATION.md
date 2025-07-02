@@ -18,3 +18,7 @@
 
 # Patent
 * [【特許番号】特許第7014288号(P7014288) - 【発明の名称】ナレッジ拡充システム、方法およびプログラム (Filed: 2018/03/07)](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2019-171490/19/ja)
+
+# LINE Stamps
+
+* [One-Chan](https://line.me/S/sticker/1103948)
