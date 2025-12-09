@@ -53,6 +53,7 @@
 * イラスト図解式 この一冊で全部わかるWeb技術の基本
 * イラスト図解式 この一冊で全部わかるサーバーの基本
 * 【図解】コレ1枚でわかる最新ITトレンド［増強改訂版］
+* それがぼくには楽しかったから 全世界を巻き込んだリナックス革命の真実 (Just for Fun: The Story of an Accidental Revolutionary)
 
 ## Leadership / Management
 * NO RULES 世界一「自由」な会社、NETFLIX
