@@ -1,6 +1,6 @@
 [![An image of @rhnf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rhnf)](https://holopin.io/@rhnf)
 
-# R-HNF
+# Ryo Hanafusa
 
 **Site Reliability Engineer & Software Engineer** living in Japan
 
