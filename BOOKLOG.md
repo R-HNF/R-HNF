@@ -1,6 +1,7 @@
 # My Learning Library: Curated Lists of Insightful Books
 
 ## Technology
+* ＯＳＳライセンスの教科書 - ソフトウェア開発の現場で求められる適切な利用方法
 * RISC-V原典 オープンアーキテクチャのススメ
 * ドメイン駆動設計をはじめよう ―ソフトウェアの実装と事業戦略を結びつける実践技法 (O'Reilly)
 * ドメイン駆動設計入門 ボトムアップでわかる！ ドメイン駆動設計の基本
